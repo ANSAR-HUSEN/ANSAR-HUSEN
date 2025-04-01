@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ansar</h1>
+<h1 align="center">Hi 👋, I'm Ansar Husen</h1>
 <h3 align="center">I'm a Full-Stack Developer based in Ethiopia, passionate about creating innovative web applications and exploring new technologies. I specialize in both front-end and back-end development, with experience in React, Node.js, and Next.js. I'm always eager to learn and take on new challenges, with a focus on building scalable and efficient solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansar-husen&label=Profile%20views&color=0e75b6&style=flat" alt="ansar-husen" /> </p>
